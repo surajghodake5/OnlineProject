@@ -1,0 +1,22 @@
+{
+  "name": "onlineprojectsolution",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajghodake5/OnlineProject.git"
+  },
+  "author": "suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajghodake5/OnlineProject/issues"
+  },
+  "homepage": "https://github.com/surajghodake5/OnlineProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
